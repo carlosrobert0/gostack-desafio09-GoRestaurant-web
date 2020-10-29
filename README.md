@@ -15,5 +15,5 @@ Para isso, deixamos instalado no seu package.json uma dependência chamada `json
 ```js
   yarn json-server server.json -p 3333
 ```
-
+![web](https://user-images.githubusercontent.com/45858897/97583221-72d19b80-19d5-11eb-939d-babacc657855.gif)
 
